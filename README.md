@@ -14,24 +14,6 @@ Ce dépôt permet de :
 
 ---
 
-## Structure du Répertoire
-
-```
-/ 
-│   │
-│   ├── diagramme de classes/
-│   ├── fonctionnalités/
-│   ├── labs/
-│   ├── maquette/
-│   ├── realisation/
-│   └── travail à faire/
-│  
-└── README.md   (ce fichier)
-
-```
-
----
-
 ## Méthodologie
 
 * Travail organisé par étapes.
