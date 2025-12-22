@@ -18,8 +18,6 @@ Ce dépôt permet de :
 
 ```
 / (Racine du projet)
-│
-├── benyekhlef.anouar/
 │   │
 │   ├── diagramme de classes/
 │   ├── fonctionnalités/
