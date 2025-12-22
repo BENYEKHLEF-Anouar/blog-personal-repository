@@ -19,14 +19,14 @@ Ce dépôt permet de :
 ```
 / (Racine du projet)
 │
-├── prenom.nom/
+├── benyekhlef.anouar/
 │   │
-│   ├── 01_travail_a_faire/       
-│   ├── 02_fonctionnalite/        
-│   ├── 03_labs/                  
-│   ├── 04_maquette/              
-│   ├── 05_diagramme_classes/     
-│   ├── 06_realisation/           
+│   ├── diagramme de classes/
+│   ├── fonctionnalités/
+│   ├── labs/
+│   ├── maquette/
+│   ├── realisation/
+│   └── travail à faire/
 │  
 └── README.md   (ce fichier)
 
