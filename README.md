@@ -49,4 +49,8 @@ Benyekhlef Anouar <br>
 Projet : Blog Solicode
 2025 / 2026
 
+## Supervisé par
+
+M. ESSARRAJ FOUAD
+
 ---
