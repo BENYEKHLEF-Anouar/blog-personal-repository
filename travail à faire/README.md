@@ -19,7 +19,7 @@ Ce document présente la liste des tâches à effectuer dans le cadre du projet 
 ## Livrables
 
 * Blog Solicode – Sprint 1
-* Presentation - Sprint 1
+* Présentation - Sprint 1
 
 ---
 
