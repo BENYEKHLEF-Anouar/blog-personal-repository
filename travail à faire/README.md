@@ -16,9 +16,10 @@ Ce document présente la liste des tâches à effectuer dans le cadre du projet 
 * Maquette : Page des articles (page de recherche)
 * Tests maquette : Apprenant 1ère année – **Ayoub Faqihi** (Visiteur)
 
-## Livrable
+## Livrables
 
 * Blog Solicode – Sprint 1
+* Presentation - Sprint 1
 
 ---
 
