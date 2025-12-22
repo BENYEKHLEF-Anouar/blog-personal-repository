@@ -45,7 +45,7 @@ Ce dépôt permet de :
 
 ## Auteur
 
-Benyekhlef Anouar
+Benyekhlef Anouar <br>
 Projet : Blog Solicode
 2025 / 2026
 
