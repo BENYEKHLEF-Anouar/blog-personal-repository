@@ -1,4 +1,4 @@
-# Repository – Blog Solicode
+# Blog Solicode
 
 Ce dépôt correspond à mon espace personnel pour le projet de blog. Il contient l’ensemble des livrables, travaux, maquettes, documents techniques et réalisations liées au développement du projet.
 
