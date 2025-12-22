@@ -17,7 +17,7 @@ Ce dépôt permet de :
 ## Structure du Répertoire
 
 ```
-/ (Racine du projet)
+/ 
 │   │
 │   ├── diagramme de classes/
 │   ├── fonctionnalités/
