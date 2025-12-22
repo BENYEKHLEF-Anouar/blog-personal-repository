@@ -1,2 +1,1 @@
-# PHP Naming Conventions
 # Vite

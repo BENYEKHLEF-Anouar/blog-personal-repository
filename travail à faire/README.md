@@ -9,7 +9,7 @@ Ce document présente la liste des tâches à effectuer dans le cadre du projet 
 
 ## Labs et recherches
 
-* Conventions de nommage en PHP
+* Vite
 
 ## Maquettes et tests
 
