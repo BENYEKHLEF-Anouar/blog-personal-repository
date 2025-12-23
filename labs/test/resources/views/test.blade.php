@@ -13,13 +13,15 @@
     <!-- Navbar -->
     <header class="bg-white shadow">
         <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
-            <h1 class="text-xl font-semibold">Preline Page <i data-lucide="annoyed"></i></h1>
+            <h1 class="text-xl font-semibold">Preline Page <i data-lucide="annoyed"></i> <i data-lucide="video"></i>  </h1>
 
             <button 
                 class="inline-flex items-center px-4 py-2 text-sm font-medium bg-blue-600 text-white rounded-lg hover:bg-blue-700"
                 data-hs-overlay="#example-modal">
                 Open Modal 
-                <!-- <x-lucide-cone /> -->
+                <x-lucide-cone />
+                <x-lucide-video />
+
             </button>
         </div>
     </header>
