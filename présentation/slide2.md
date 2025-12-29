@@ -173,15 +173,23 @@ Retours : Intuitive, suggestions sur visibilité filtres.
 
 ---
 
-# Fonctionnalités Détaillées
+# Fonctionnalités de la Page articles
 
 Page de recherche suit use case :
 - **Acteurs** : Visiteur.
 - **Flux** : Requête → Résultats → Filtrage → Lecture.
-- **Bénéfices** : Réduction temps recherche, personnalisation.
 
 ![w:600 Use Case search page](./images/search-us.png)
 
+---
+# Fonctionnalités Détaillées
+
+La page de recherche intègre des services modulaires pour une expérience utilisateur optimale :
+
+- **Recherche Globale** : Filtrage en temps réel des articles par titre ou contenu (`searchArticles`).
+- **Filtrage Thématique** : Navigation par catégories dynamiques (`filterArticlesByCategory`).
+- **Gestion du Catalogue** : Récupération intégrale des articles et catégories au chargement (`getAllArticles`, `getAllCategories`).
+- **Pagination et Tri** : Optimisation de l'affichage pour une consultation fluide.
 
 ---
 
