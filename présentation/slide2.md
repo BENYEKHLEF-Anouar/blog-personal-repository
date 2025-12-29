@@ -205,6 +205,14 @@ La page de recherche intègre des services modulaires pour une expérience utili
 
 ---
 
+# Diagramme de Classes
+
+Structure de la base de données et relations entre les entités :
+
+![w:1000 Diagramme de Classes](./images/diagramme-classes.png)
+
+---
+
 # Réalisation Technique (suite)
 
 ## Front-End
