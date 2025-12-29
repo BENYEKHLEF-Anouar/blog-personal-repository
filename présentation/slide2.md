@@ -157,7 +157,7 @@ Fonctionnalités clés :
 
 - **Maquette clé** : Page articles avec recherche, UX moderne.
 - **Outils** : Tailwind CSS (utility-first), Preline UI (composants), Lucide (icons).
-- **Tests** : Avec **Ayoub Faqihi** (apprenant 1ère année). <br 
+- **Tests** : Avec **Ayoub Faqihi** (apprenant 1ère année). 
 Retours : Intuitive, suggestions sur visibilité filtres.
 
 ![w:500 Old Mockup](./images/search-page-capture.png)
