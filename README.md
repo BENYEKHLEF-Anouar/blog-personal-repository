@@ -95,7 +95,7 @@ M. ESSARRAJ Fouad
 Structure en sprints (2 semaines) :
 
 - **Rôles** : Product Owner, Scrum Master, Équipe.
-- **Artefacts** : Backlogs, Increment.
+- **Artefacts** : Backlogs, Comptes rendus.
 - **Événements** : Planning, Daily, Review, Retrospective.
 
 Permet adaptation rapide et livraison incrémentale.
