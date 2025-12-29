@@ -84,7 +84,7 @@ M. ESSARRAJ Fouad
 - **Limites des réseaux sociaux** : Manque de SEO, structuration faible, absence d'identité dédiée.
 - **Objectifs stratégiques** : Améliorer visibilité, découverte de contenus, scalabilité.
 
-Études montrent que les blogs dédiés boostent le trafic organique pour ~55-70% des organisations, selon des sources comme HubSpot et Databox.
+Études montrent que les blogs dédiés boostent le trafic organique pour ~55-70% des organisations, selon des sources comme HubSpot.
 
 ---
 
