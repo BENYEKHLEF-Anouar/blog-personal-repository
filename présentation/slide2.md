@@ -37,8 +37,8 @@ style: |
     margin-bottom: 1em;
   }
   img {
-    max-width: 80%;
-    max-height: 60vh;
+    max-width: 110%;
+    max-height: 80vh;
     display: block;
     margin: 1em auto;
     object-fit: contain;
@@ -57,7 +57,8 @@ style: |
 
 ![bg left:40% 80%](https://via.placeholder.com/300x200?text=Logo+Solicode)
 
-# **Rapport Complet sur le Projet Blog Solicode : Sprint 1**
+# **Projet Blog Solicode** 
+**Sprint 1: Visiteur & Découverte**
 
 **Réalisé par :**  
 BENYEKHLEF Anouar    
@@ -69,11 +70,11 @@ M. ESSARRAJ Fouad
 
 # Introduction et Contexte Général
 
-Le projet Blog Solicode vise à créer une plateforme numérique dédiée pour communiquer les activités parascolaires de l'organisation, notamment IT-Wave.
+- Le projet Blog Solicode vise à créer une plateforme numérique dédiée pour communiquer les activités parascolaires de l'organisation, notamment IT-Wave.
 
-Les réseaux sociaux présentent des limitations en termes de référencement SEO, de structuration des contenus et d'identité propre, menant à une dispersion des informations.
+- Les réseaux sociaux présentent des limitations en termes de référencement SEO, de structuration des contenus et d'identité propre, menant à une dispersion des informations.
 
-La solution : Une plateforme de blog dynamique, sécurisée et scalable, alignée sur des pratiques standard pour organisations éducatives.
+- La solution : Une plateforme de blog dynamique, sécurisée et scalable, alignée sur des pratiques standard pour organisations éducatives.
 
 ---
 
@@ -81,7 +82,7 @@ La solution : Une plateforme de blog dynamique, sécurisée et scalable, aligné
 
 - **Communication centralisée** : Canal unique pour articles, événements et actualités IT-Wave.
 - **Limites des réseaux sociaux** : Manque de SEO, structuration faible, absence d'identité dédiée.
-- **Objectifs stratégiques** : Améliorer visibilité, découverte de contenus, scalabilité (e.g., commentaires, newsletters).
+- **Objectifs stratégiques** : Améliorer visibilité, découverte de contenus, scalabilité.
 
 Études montrent que les blogs dédiés boostent le trafic organique pour ~55-70% des organisations, selon des sources comme HubSpot et Databox.
 
@@ -98,6 +99,8 @@ Structure en sprints (2 semaines) :
 - **Événements** : Planning, Daily, Review, Retrospective.
 
 Permet adaptation rapide et livraison incrémentale.
+
+---
 
 ![Méthode Scrum](./images/scrum.jpg)
 
@@ -117,6 +120,8 @@ Processus itératif centré utilisateur :
 
 Combinées pour développement efficace.
 
+---
+
 ![Design Thinking](./images/design-thinking.png)
 
 ---
@@ -128,7 +133,7 @@ Focus sur front-office accessible aux visiteurs anonymes.
 Fonctionnalités clés :
 - **Page d’accueil** : Articles récents, catégories.
 - **Navigation** : Menu intuitif.
-- **Recherche** : Moteur.
+- **Recherche** : Moteur intuitif.
 - **Lecture d’articles** : Affichage détaillé.
 
 Établit bases pour expérience engageante.
@@ -155,12 +160,14 @@ Fonctionnalités clés :
 - **Tests** : Avec **Ayoub Faqihi** (apprenant 1ère année). 
 Retours : Intuitive, suggestions sur visibilité filtres.
 
-![Old Mockup](./images/search-page-capture.png)
+![w:500 Old Mockup](./images/search-page-capture.png)
 
 
 ---
 
-![New Mockup](./images/search-new-mockup.png)
+## Maquette Améliorée
+
+![w:1100 New Mockup](./images/search-new-mockup.png)
 
 ---
 
@@ -171,7 +178,7 @@ Page de recherche suit use case :
 - **Flux** : Requête → Résultats → Filtrage → Lecture.
 - **Bénéfices** : Réduction temps recherche, personnalisation.
 
-![Use Case search page](./images/search-us.png)
+![w:600 Use Case search page](./images/search-us.png)
 
 
 ---
@@ -205,9 +212,9 @@ Page de recherche suit use case :
 
  - Sprint 1 solidifie fondations : Structure claire, architecture scalable, UX testée.
 
-Retours positifs valident approche ; ajustements pour accessibilité.
+- Retours positifs valident approche ; ajustements pour accessibilité.
 
-Prochains sprints : Fonctionnalités avancées (admin, interactions).
+- Prochains sprints : Fonctionnalités avancées (admin, interactions).
 
 Merci pour votre attention.  
 Questions ?

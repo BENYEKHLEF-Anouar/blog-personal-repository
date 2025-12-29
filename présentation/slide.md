@@ -37,8 +37,8 @@ style: |
     margin-bottom: 1em;
   }
   img {
-    max-width: 80%;
-    max-height: 60vh;
+    max-width: 100%;
+    max-height: 80vh;
     display: block;
     margin: 1em auto;
     object-fit: contain;
@@ -130,7 +130,7 @@ Interface visible par les visiteurs permettant :
 
 # Fonctionnalités (page recherche)
 
-![Use Case search page](./images/search-us.png)
+![w:900 Use Case search page](./images/search-us.png)
 
 
 ---
@@ -145,7 +145,7 @@ Nous avons utilisé Tailwind + Preline UI pour le design initial.
 
 
 
-![New Mockup](./images/search-new-mockup.png)
+![w:1100 New Mockup](./images/search-new-mockup.png)
 
 ---
 
