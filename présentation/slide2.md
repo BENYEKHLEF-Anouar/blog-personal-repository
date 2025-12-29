@@ -145,11 +145,13 @@ Fonctionnalités clés :
 ## Focus Principal : Page de Recherche d'Articles
 
 - **Fonctionnalités** :
-  - Recherche full-text.
+  - Recherche des articles.
   - Filtrage dynamique par catégories.
 
-## Labs et Recherches
-- Vite pour bundling et hot-reloading front-end.
+## Labs et Recherches Techniques
+- **Vite** : Outil de build front-end pour un bundling rapide et hot-reloading, accélérant le développement et les itérations.
+- **Preline UI** : Bibliothèque de composants Tailwind CSS open-source, fournissant des éléments prêts à l'emploi comme boutons, modals et formes pour un design cohérent.
+- **Lucide** : Librairie d'icônes SVG open-source avec plus de 1 000 icônes personnalisables, assurant une UI visuellement attrayante et scalable.
 
 ---
 
