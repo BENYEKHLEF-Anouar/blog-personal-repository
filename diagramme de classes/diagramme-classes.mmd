@@ -1,4 +1,6 @@
 classDiagram
+direction LR
+
     class User {
         +Long id
         +String name
@@ -48,6 +50,15 @@ classDiagram
         +DateTime updated_at
     }
 
+    class Video {
+        +Long id
+        +String name
+        +String path
+        +Long article_id
+        +DateTime created_at
+        +DateTime updated_at
+    }
+
     class Comment {
         +Long id
         +Text content
@@ -57,11 +68,13 @@ classDiagram
     }
 
     %% Relations
-    User "1" -- "0..*" Article : writes
-    User "1" -- "0..*" Comment : posts
-    User "*" -- "*" Role : has
+    User "1" -- "0.." Article : writes
+    User "" -- "" Role : has
+    User "1" -- "0.." Video : uploads
+    User "1" -- "0.." Comment : posts
 
-    Category "*" -- "*" Article : classifies
+    Category "" -- "" Article : classifies
 
-    Article "1" -- "0..*" Comment : receives
-    Article "*" -- "*" Tag : labeled_with
+    Article "1" -- "0.." Video : has
+    Article "1" -- "0.." Comment : receives
+    Article "" -- "*" Tag : labeled_with
