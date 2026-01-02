@@ -68,6 +68,14 @@ M. ESSARRAJ Fouad
 
 ---
 
+
+# Problématique
+
+La communication des activités parascolaires, notamment IT-Wave, se limite aux réseaux sociaux, ce qui entraîne une faible visibilité, un référencement insuffisant et une dispersion des informations. Il devient donc nécessaire de disposer d’une plateforme centralisée et fiable.
+
+
+---
+
 # Introduction et Contexte Général
 
 - Le projet Blog Solicode vise à créer une plateforme numérique dédiée pour communiquer les activités parascolaires de l'organisation, notamment IT-Wave.
